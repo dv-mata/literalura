@@ -1,6 +1,6 @@
 # Proyecto Literalura
 
-[![Java](https://img.shields.io/badge/Java-11%2B-blue.svg)](https://www.oracle.com/java/)
+[![Java](https://img.shields.io/badge/Java-21%2B-blue.svg)](https://www.oracle.com/java/)
 [![Spring](https://img.shields.io/badge/Spring-Framework-green.svg)](https://spring.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue.svg)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
