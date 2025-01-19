@@ -1,3 +1,11 @@
+env.properties
+.idea/
+target/
+lib/
+modules/
+.DS_Store
+.mvn/
+
 # Compiled class file
 *.class
 
